@@ -115,8 +115,8 @@ cd africa-fiscal-sustainability-analysis
 # Install dependencies
 pip install -r requirements.txt
 
-# Launch Jupyter
-jupyter notebook
+# Launch Google Colab
+google colab
 ```
 
 ---
@@ -148,12 +148,12 @@ jupyter notebook
 
 ## 📧 Contact
 
-**[Your Name]**  
+**ADESIDA OLUWASEUN IYANU**  
 Systems Engineering Student  
-[Your University]
+University Of Lagos State
 
-LinkedIn: [your-profile]  
-Email: [your-email]
+LinkedIn: www.linkedin.com/in/adesida-oluwaseun  
+Email: aiodbosss@gmail.com
 
 ---
 
