@@ -1,0 +1,30 @@
+======================================================================
+AFRICA FISCAL DATA - CLEANED DATASET SUMMARY REPORT
+======================================================================
+Report Generated: 2025-11-29 20:44:29
+======================================================================
+
+DATASET OVERVIEW:
+  Total Rows: 623
+  Total Columns: 42
+  Countries: 14
+  Year Range: 1960 - 2025
+
+COUNTRIES:
+   1. Algeria
+   2. Angola
+   3. Botswana
+   4. Egypt
+   5. Ethiopia
+   6. Ghana
+   7. Ivory Coast
+   8. Kenya
+   9. Nigeria
+  10. Rwanda
+  11. Senegal
+  12. South Africa
+  13. Tanzania
+  14. Togo
+
+✅ Created 12 calculated fiscal metrics
+✅ Data completeness: 35.7%
